@@ -1,6 +1,8 @@
 # CS50X
 
-### Index
+<p>CS50’s Introduction to Computer Science</p>
+
+## Index
 
 | Week | Problem Set |
 | ---- | ---- |
@@ -8,7 +10,7 @@
 
 <br>
 
-### Week 0
+## Week 0: Scratch
 
 <details>
 <summary>Topics Covered:</summary>
